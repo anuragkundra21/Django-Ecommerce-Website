@@ -27,7 +27,7 @@ SECRET_KEY = '_%922i8^^9m!7nv-!q-+5ryyhj=p=)7+sc-gzt$z28lv83!k9#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["127.0.0.1"]
+ALLOWED_HOSTS = ["127.0.0.1","eccomwebsite.herokuapp.com"]
 
 
 # Application definition
